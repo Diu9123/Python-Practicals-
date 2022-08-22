@@ -1,0 +1,10 @@
+a=int (input("\n Enter the first operand:"))
+b=int (input("\n Enter the second operand:"))
+
+print("addition of a:",a,"and b:",b,"is:",a+b)
+print("substraction of a:",a,"and b:",b,"is:",a-b)
+print("multiplication of a:",a,"and b:",b,"is:",a*b)
+print("division of a:",a,"and b:",b,"is:",a/b)
+print("floor division of a:",a,"and b:",b,"is:",a//b)
+print("moduli of a:",a,"and b:",b,"is:",a%b)
+print("exponent of a:",a,"and b:",b,"is:",a**b)

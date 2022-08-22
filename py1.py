@@ -1,0 +1,15 @@
+id1= id("ameya")
+id2= id("59")
+list=["ameya","bhagwat"]
+id3= id(list[0])
+id4= id(list[1])
+print("ameya:",id1)
+print("59 :",id2)
+print("obj1 :",id3)
+print("obj2 :",id4)
+print(id3==id4)
+
+type1= type("ameya")
+type2= type("59")
+print("ameya:",type1)
+print("59 :",type2)

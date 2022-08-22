@@ -1,0 +1,5 @@
+college=("SIIET","BHARAT","GNIT","AVN")
+print("The lists in college tuple is", college)
+print("We can't add or remove new elements in a tuple")
+print("Lenght of the tuplecollege is:",len(college))
+print("Yes, 'SIIET' is in the college tuple ")
